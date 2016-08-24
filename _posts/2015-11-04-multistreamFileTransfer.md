@@ -6,8 +6,7 @@ excerpt : A file transfer program written in cpp, which uses multiple streams in
 ---
 This post is about Multi-Stream File Transfer agent. I wrote this program in my 5th semester, november 2015 as mini-network project. This project was successfully tested working on Ubuntu 14.04. Here I shall describe its working.<br>
 
-Below is the repository for __*Multi Stream File Transfer Agent*__.<br>
-<https://github.com/manuchandel/Multi-Stream-File-Transfer-Agent>
+GitHub repository for [Multi Stream File Transfer Agent](https://github.com/manuchandel/Multi-Stream-File-Transfer-Agent)
 
 ### Introduction
 
