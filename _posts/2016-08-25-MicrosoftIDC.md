@@ -82,4 +82,4 @@ Microsoft expects you to work sincerely on a project and enjoy your intern perio
 
 ### My Take Away
 
-I spent one of the happiest vacations of my life at Microsoft IDC. Even getting a hogwards letter at 11 wouldn't have been this blissful. I enjoyed and learned a lot. It was my first exposure to sofware industry and luckily it was with the company who started the industry itself.
+I spent one of the happiest vacations of my life at Microsoft IDC. Even getting a hogwards letter at 11 wouldn't have been this blissful. I enjoyed and learnt a lot. It was my first exposure to sofware industry and luckily it was with the company who started the industry itself.
