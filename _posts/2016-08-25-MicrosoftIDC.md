@@ -14,7 +14,7 @@ In this post I will not talk about specifics of my work at MS as it is confident
 
 ## My Story
 
-On 8th May 2016 I boarded a plane from Mumbai to Hyderabad with much excitement for my first career break ahead. It took 1 hour and 28 minutes precisely for me to reach Hyderabad. The weather at Hyderabad was not at all welcoming with teperature as high as 35 degrees in evening time.
+On 8th May 2016 I boarded a plane from Mumbai to Hyderabad with much excitement for my first career break ahead. It took 1 hour and 28 minutes precisely for me to reach Hyderabad. The weather at Hyderabad was not at all welcoming with temperature as high as 35 degrees in evening time.
 
 ### Accomodation
 Around Six in the evening I reached the hotel. The accomodation provided by MS was fully air conditioned (which was needed in that weather) and wonderful. Here are the few clicks of the hotel room.
