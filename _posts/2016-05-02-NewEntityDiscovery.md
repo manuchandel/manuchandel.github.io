@@ -11,7 +11,7 @@ Analysing news headlines, find person names which are trending and do not have w
 
 This is [GIT](https://github.com/manuchandel/NewEntityDiscovery) repository for source code.<br>
 The final output for the program is [here]({% post_url 2016-05-02-NewEntityDiscoveryOutput %}).<br>
-For detailed description check out original [project report](https://github.com/manuchandel/NewEntityDiscovery/blob/master/Report.pdf)
+For detailed description check out original [project report](/assets/files/NewEntityDiscoveryReport.pdf)
 
 
 ### Problem understanding and challenges
