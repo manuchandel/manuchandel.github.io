@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">All Posts</h1>
+
+  <ol >
+    {% for post in site.posts %}
+    {% unless post.hidden %}
+      <li>
+        <a  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>{{ post.date | date: "%b %-d, %Y" }}
+      </li>
+    {% endunless %}
+    {% endfor %}
+  </ol>
+</div>
