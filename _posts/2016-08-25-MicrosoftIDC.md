@@ -62,7 +62,7 @@ In our free time I used to play pool and fooseball with my friends and sometimes
 
 There was a lake in the campus and by its side small cafeteria where you could get delicious rolls and dosas. You could enjoy your meal by the side of beautifully decorated lake.
 
-There was a football ground and cricket ground inside campus where we used to play with our mentors. By the evening you could see people running inside campus with their sport shoes and track pants on. The campus had one of the largest gymnasium.
+There was a football ground and cricket ground inside campus where we used to play with our mentors. By the evening you could see people running inside campus with their sport shoes and track pants on. The campus has one of the largest gymnasium.
 
 ### Extra Curriculars
 
