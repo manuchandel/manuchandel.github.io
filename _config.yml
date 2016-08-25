@@ -26,9 +26,11 @@ google_analytics : UA-66656420-1
 
 #navigation
 navigation:
+ - title: Index
+   url: /outline.html
  - title: About
    url: http://about.me/manuchandel
- - title: RSS
+ - title: Feed
    url: /feed.xml
 
 # Build settings
