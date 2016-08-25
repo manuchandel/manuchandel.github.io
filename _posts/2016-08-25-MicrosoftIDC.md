@@ -2,6 +2,7 @@
 layout: post
 title: Microsoft IDC Intern Experience 2016 
 author: Manu Chandel
+thumbnail : /assets/img/MSIDCthumbnail.jpg
 excerpt : My prefinal year intern experience at Microsoft India Development Centre, Hyderabad.
 ---
 
@@ -42,7 +43,7 @@ Here are the few pictures clicked by me with my fellow interns at campus tour.
 
 There were flexible work timings (even for interns). I came to work daily around 10, sometimes at 12 also. I was given a cabin shared with two other interns, each one of them working independently on different projects. Every day I learned new things from my mentors, manager, fellow interns and tried all of those things on my project. My ideas were never discouraged by my mentors nor I was made feel that I was just an intern. At times I would get stuck for hours at one single problem and sometimes I would spend hours playing pool and fooseball on campus. 
 
-The work was very friendly and work enviornment motivating. There were team meetings held twice or thrice a week and all the interns were encouraged to join it. I attended few of them and had aboslutely no idea what was going on. One thing I liked about Microsoft was that they assign you work PC in the office in which you have to do you work. You are by no means allowed to carry your laptop to your cabin or shift your work to your laptop. This way they made it sure that work remained only in the office.
+The work was very friendly and work enviornment motivating. There were team meetings held twice or thrice a week and all the interns were encouraged to join it. I attended few of them and had aboslutely no idea what was going on. One thing I liked about Microsoft was that they assign you work PC in the office in which you have to do your work. You are by no means allowed to carry your laptop to your cabin or shift your work to your laptop. This way they made it sure that work remained only in the office.
 
 ### Facilities
 
@@ -50,7 +51,7 @@ Interns were given free lunch (unlike permanent employees). The lunch menu inclu
 The pantry was full of juice, soft drinks, coffee machines and the best quality hand picked fruits . 
 
 <div><img src="/assets/img/lunch.jpg" height="225" width="300" align="left" style="margin:10px 10px 10px 10px; border: 2px black solid;">
-	<img src="/assets/img/entrance.jpg" height="225" width="300" aligh="right" style="margin:10px 10px 10px 10px; border: 2px black solid;">
+	<img src="/assets/img/lake.jpg" height="225" width="300" aligh="right" style="margin:10px 10px 10px 10px; border: 2px black solid;">
 </div>
 
 In our free time I used to play pool and fooseball with my friends and sometimes with mentors. I got lucky few times to try new xbox one consoles. Sometimes I just used to relax and watch youtube videos on my work PC. There was no social media restrictions on our internet connection. You could just literally watch anything.
