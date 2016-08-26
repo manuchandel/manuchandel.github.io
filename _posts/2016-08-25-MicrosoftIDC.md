@@ -2,6 +2,7 @@
 layout: post
 title: Microsoft IDC Intern Experience 2016 
 author: Manu Chandel
+category: Personal Corner
 thumbnail : /assets/img/MSIDCthumbnail.jpg
 excerpt : My prefinal year intern experience at Microsoft India Development Centre, Hyderabad.
 ---

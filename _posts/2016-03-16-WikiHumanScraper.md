@@ -2,6 +2,7 @@
 layout: post
 title: WikiHuman Scraper
 author: Manu Chandel
+category: Projects
 excerpt: A script written in python which scrapes human names and their description from wiki data and stores them into a database.
 ---
 
