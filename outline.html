@@ -7,20 +7,10 @@ layout: default
   <h1 class="page-heading">All Posts</h1>
 
   <ol>
-    {% for category in site.categories %}
-      <li>{{ category | first }}</li>
-        <ul>
-          {% for posts in category %}
-            {% for post in posts %}
-               {% if post.url %}
-                {% unless post.hidden %}
-                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></li>
-                {% endunless %}
-               {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </ul>
-
-    {% endfor %}
+  {% for post in site.posts %}
+      {% unless post.hidden %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></li>
+      {% endunless %}
+  {% endfor %}
   </ol>
 </div>

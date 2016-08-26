@@ -2,7 +2,6 @@
 layout: post
 title: New Entity Discovery Output
 author: Manu Chandel
-category: Projects
 hidden: True
 excerpt: Output of the New Entity Discovery Program
 

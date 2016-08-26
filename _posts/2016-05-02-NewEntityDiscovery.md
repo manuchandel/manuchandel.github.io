@@ -2,7 +2,6 @@
 layout: post
 title: New Entity Discovery
 author: Manu Chandel
-category: Projects
 excerpt: New Entity Discovery is a text analysis project which discovers new popular person entity from news headlines along with related nouns. 
 ---
 

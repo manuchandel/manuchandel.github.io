@@ -2,7 +2,6 @@
 layout: post
 title: Multi Stream File Transfer Agent
 author: Manu Chandel
-category: Projects
 excerpt : A file transfer program written in cpp, which uses multiple streams in parallel to transfer files by breaking it into equal fragments from one computer to another.<br>
 ---
 This post is about Multi-Stream File Transfer agent. I wrote this program in my 5th semester, november 2015 as mini-network project. This project was successfully tested working on Ubuntu 14.04. Here I shall describe its working.<br>
