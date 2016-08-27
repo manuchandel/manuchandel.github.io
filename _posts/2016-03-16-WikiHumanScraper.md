@@ -6,7 +6,7 @@ category: project
 excerpt: A script written in python which scrapes human names and their description from wiki data and stores them into a database.
 ---
 
-## Introduction
+### Introduction
 
 <br>
 `WikiHuman Scraper` as I like to call it, is a script written in python which scrapes human names and their description from wiki data and stores them into a database.<br>
@@ -20,7 +20,7 @@ Data about people was scraped using this [__SOURCE__](https://goo.gl/MgvSG0)
 <br>
 <br>
 
-## Environment
+### Environment
 
 <br>
 To install python on a recent version of Debian or Ubuntu Linux
@@ -40,7 +40,7 @@ $ sudo apt-get install python-bs4
 
 <br>
 
-## Working
+### Working
 <br>
 
 * The script makes use of `Beautiful Soup` library. More about beautiful soup [__HERE__](http://goo.gl/Ea64B).<br>

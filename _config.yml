@@ -34,8 +34,6 @@ navigation:
    url: /notes.html
  - title: About
    url: http://about.me/manuchandel
- - title: Feed
-   url: /feed.xml
 
 # Build settings
 markdown: kramdown

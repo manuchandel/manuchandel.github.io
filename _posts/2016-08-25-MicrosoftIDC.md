@@ -8,13 +8,13 @@ thumbnail : /assets/img/MSIDCthumbnail.jpg
 excerpt : My prefinal year intern experience at Microsoft India Development Centre, Hyderabad.
 ---
 
-## Preface
+### Preface
 
 Summers 2016 was one of the most awaited summer vacation of my life. The excitement was all about my internship at MSIDC which I had secured through my college placement cell a year before. I had a fair idea through my college seniors about the royal treatment served to the interns by MS. This none the less created more curiosity.
 
 In this post I will not talk about specifics of my work at MS as it is confidential under the contract of my employment but rather I will focus in general, the life I spent on the campus for 60 days and what is expected out of an intern at Microsoft.
 
-## My Story
+### My Story
 
 On 8th May 2016 I boarded a plane from Mumbai to Hyderabad with much excitement for my first career break ahead. It took 1 hour and 28 minutes precisely for me to reach Hyderabad. The weather at Hyderabad was not at all welcoming with temperature as high as 35 degrees in evening time.
 

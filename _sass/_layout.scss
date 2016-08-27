@@ -2,51 +2,52 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
+    
+    height: 100px;
+    background-color:$background-color;
     // Positioning context for the mobile navigation icon
     position: relative;
+
 }
 
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
+    
     letter-spacing: -1px;
-    margin-bottom: 0;
+    line-height: 100px;
     float: left;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #fff;
     }
 }
 
 .site-nav {
     float: right;
-    line-height: 56px;
-
+    line-height: 100px;
+    
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: #fff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
         }
+        
     }
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
+        top: 30px;
         right: $spacing-unit / 2;
-        background-color: $background-color;
+        background-color: #fdfdfd;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
@@ -59,7 +60,6 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
-
             > svg {
                 width: 18px;
                 height: 15px;
@@ -73,6 +73,7 @@
         .trigger {
             clear: both;
             display: none;
+
         }
 
         &:hover .trigger {
@@ -83,7 +84,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
-
+            color :$headline-color;
             &:not(:last-child) {
                 margin-right: 0;
             }
@@ -103,12 +104,13 @@
 
 .page-heading {
     font-size: 20px;
+    color :black;
 }
 
 .post-list {
     margin-left: 0;
     list-style: none;
-
+    color :$grey-color-dark;
     > li {
         margin-bottom: $spacing-unit;
     }
@@ -135,10 +137,9 @@
 
 .post-title {
     text-align : center;
-    font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+    font-size: 36px;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -149,28 +150,39 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    color :$grey-color-dark;
+    h1 {
+        font-size: 36px;
+        color: $headline-color;
+        @include media-query($on-laptop) {
+            font-size: 32px;
+            color: $headline-color;
+        }
+    }
     h2 {
         font-size: 32px;
-
+        color: $headline-color;
         @include media-query($on-laptop) {
             font-size: 28px;
+            color: $headline-color;
         }
     }
 
     h3 {
         font-size: 26px;
-
+        color: $headline-color;
         @include media-query($on-laptop) {
             font-size: 22px;
+            color: $headline-color;
         }
     }
 
     h4 {
         font-size: 20px;
-
+        color: $headline-color;
         @include media-query($on-laptop) {
             font-size: 18px;
+            color: $headline-color;
         }
     }
 }
@@ -180,6 +192,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+
 }
 
 .footer-heading {

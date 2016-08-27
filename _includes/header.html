@@ -1,10 +1,11 @@
 <header class="site-header">
-  <div style="float :right; position:absolute; right:0px; ">
+ <!-- <div style="float :right; position:absolute; right:0px; top:0px; ">
 <a href="http://manuchandel.com"><img src="/assets/img/ribbon.png" height="150px" width="150px"/></a>
 </div>
+-->
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/"><i class="fa fa-home" aria-hidden="true" style="font-size:30px;"></i> {{site.title}}</a>
     
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -19,6 +20,7 @@
         {% for my_page in site.navigation %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endfor %}
+        <a class="page-link" href="/feed.xml"><i class="fa fa-rss" aria-hidden="true" style="font-size:20px;"></i> </a>
 
       </div>
     </nav>
