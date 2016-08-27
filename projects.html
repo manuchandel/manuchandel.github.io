@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Projects</h1>
+
+  <ul>
+  {% for post in site.posts %}
+      {% if post.category=="project" %}
+      <li><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  </li>
+      {% endif %}
+  {% endfor %}
+  </ul>
+</div>
