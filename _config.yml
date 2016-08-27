@@ -26,6 +26,8 @@ google_analytics : UA-66656420-1
 
 #navigation
 navigation:
+ - title: Blog
+   url: /blog.html
  - title: Projects
    url: /projects.html
  - title: Notes
