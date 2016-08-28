@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: #fdfdfd;
+    background-color: $body-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -100,7 +100,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
@@ -162,7 +162,6 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    margin-bottom:0px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

@@ -46,7 +46,7 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 20px;
+        top: 17px;
         right: $spacing-unit / 2;
         background-color: #fdfdfd;
         border: 1px solid $grey-color-light;
@@ -105,7 +105,7 @@
 
 .page-heading {
     font-size: 20px;
-    color :black;
+    color :$grey-color-dark;
 }
 
 .post-list {
@@ -116,7 +116,15 @@
         margin-bottom: $spacing-unit;
     }
 }
-
+.post-list-2 {
+    margin-left: 0;
+    list-style: none;
+    color :$grey-color-dark;
+    border-bottom: 1px solid $grey-color-light;
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
@@ -239,3 +247,14 @@
             }
         }
     }
+.img-circle {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+.display-image {
+    width:250px;
+    min-height:270px;
+    margin-left: auto;
+    margin-right: auto
+}

@@ -32,8 +32,7 @@ navigation:
    url: /projects.html
  - title: Notes
    url: /notes.html
- - title: About
-   url: http://about.me/manuchandel
-
+ - title: Recents
+   url: /recent.html
 # Build settings
 markdown: kramdown

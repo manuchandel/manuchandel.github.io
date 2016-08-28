@@ -6,11 +6,11 @@ layout: default
 
   <h1 class="page-heading">Blog</h1>
 
-  <ul>
+
   {% for post in site.posts %}
       {% if post.category=="blog" %}
-      <li><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  </li>
+     <div class="post-list-2"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-meta" style="float:right;">{{ post.date | date: "%b %-d, %Y" }}</span></div>
       {% endif %}
   {% endfor %}
-  </ul>
+
 </div>
