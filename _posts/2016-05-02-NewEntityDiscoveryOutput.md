@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Entity Discovery Output
+repo : NewEntityDiscovery
 author: Manu Chandel
 hidden: True
 excerpt: Output of the New Entity Discovery Program
@@ -9,7 +10,7 @@ excerpt: Output of the New Entity Discovery Program
 
 #### Output for News Headlines from `1st Jan 2016` to `31st March 2016`
 
-<table>
+<table >
 			<tr>
 			<th>Sr.No</th>
 			<th>Entity Name</th>
