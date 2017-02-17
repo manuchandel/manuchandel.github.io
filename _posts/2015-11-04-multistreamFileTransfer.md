@@ -3,6 +3,7 @@ layout: post
 title: Multi Stream File Transfer Agent
 author: Manu Chandel
 category: project
+tags : [networks, c++, web-sockets]
 repo : Multi-Stream-File-Transfer-Agent
 excerpt : A file transfer program written in cpp, which uses multiple streams in parallel to transfer files by breaking it into equal fragments from one computer to another.<br>
 ---

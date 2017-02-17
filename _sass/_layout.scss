@@ -298,3 +298,40 @@ Home Page
     Line-height :150px;
 
 }
+
+/**
+Post Tags
+**/
+
+.post-tags{
+    a {
+        background-color : $brand-color;
+        color : white;
+        padding : 5px 10px 5px 10px;
+        border-radius : 25px 25px ;
+      
+      &:hover {
+
+        background-color : black;
+        text-decoration: none;
+        }
+        box-shadow: 5px 2px 3px lighten($grey-color-dark,10%);
+        margin-right:5px;
+
+    }
+    margin-bottom: $spacing-unit;
+
+}
+/**
+Tag Archive
+**/
+
+.tag-archive{
+    h2{
+        color : red;
+    }
+  
+
+    margin-top: $spacing-unit;
+
+}

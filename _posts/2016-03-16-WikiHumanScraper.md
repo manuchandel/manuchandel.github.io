@@ -4,6 +4,7 @@ title: WikiHuman Scraper
 author: Manu Chandel
 category: project
 repo : WikiHuman-Scraper
+tags : [web, python]
 excerpt: A script written in python which scrapes human names and their description from wiki data and stores them into a database.
 ---
 

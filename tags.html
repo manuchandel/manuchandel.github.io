@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h2>Tag Archive </h2>
+
+<div>
+{% for tag in site.tags %}
+	<div  class="tag-archive"  > 
+	<h2 id="{{ tag[0] }}" > {{ tag[0] }} </h2>
+	{% for post in tag[1] %}
+      
+      <div class="post-list-2"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-meta" style="float:right;">{{ post.date | date: "%b %-d, %Y" }}</span></div>
+  	{% endfor %}
+  	</div>
+{% endfor %}
+</div>
