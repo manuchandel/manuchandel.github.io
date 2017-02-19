@@ -1,5 +1,6 @@
 <!-- Add jQuery and other scripts -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
@@ -18,6 +19,20 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<script type="text/javascript">
+
+      setInterval( function(){
+        var githubiframe=$('iframe[src*=github]');
+        if(githubiframe.length>1){
+          var width = parseInt(githubiframe[1].style.width)+parseInt(githubiframe[2].style.width);
+          $('.github-sharing').css("width",width+5);
+        }
+
+        $('.fblikeshare').css("width",parseInt($('iframe[src*=facebook]')[0].style.width));
+      },100);
+
+</script>
